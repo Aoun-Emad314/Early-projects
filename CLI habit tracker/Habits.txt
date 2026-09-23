@@ -1,0 +1,7 @@
+workout,2,Health & Wellness 💪🏼
+call a friend,2,Health & Wellness 💪🏼
+studying,2,Productivity & Success 💰
+Running,1,Health & Wellness 💪🏼
+Coding,3,Productivity & Success 💰
+Family qulity time,3,Social & Relationships ❤️
+shower,1,Health & Wellness 💪🏼
