@@ -18,10 +18,8 @@ def date_input():
     print("🎯Getting an input started!")
     city_name = input("REQUIRED**Enter the city name: ")
     country_code = input("OPTIONAL**Enter the country code: ")
-    state_code = input("OPTIONAL**Enter the state_code(US ONLY!)-leave it blank: ")
-    limit = input(
-        "OPTIONAL**Limit-Number of the locations in the API response-leave it blank: "
-    )
+    state_code = input("OPTIONAL**Enter the state_code(US ONLY!): ")
+    limit = input("OPTIONAL**Limit-Number of the locations in the API response: ")
     location_info = city_name, state_code, country_code, limit
     return location_info
 

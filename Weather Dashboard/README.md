@@ -12,7 +12,7 @@ A command-line weather dashboard built with Python. This tool uses the OpenWeath
 You will need Python 3 installed on your machine, along with a free API key from [OpenWeatherMap](https://openweathermap.org/).
 
 # Future Improvements (Roadmap)
-* **Graphical User Interface (GUI)**: Transition from a terminal script to a desktop window using Tkinter or CustomTkinter.
+* **Graphical User Interface (GUI)**: Transition from a terminal script to a desktop window using Tkinter or CustomTkinter. 
 
 * **Continuous Search Loop**: Wrap the main function in a while loop so users can look up multiple cities without having to restart the script.
 
